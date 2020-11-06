@@ -1,3 +1,3 @@
 # Hi there!
 
-Just testing some `codde` example 
+Just testing some `code` example 
