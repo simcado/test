@@ -10,3 +10,11 @@ const testObj = {
 
 console.log(testObj.testFunc)
 console.log(testObj.testName)
+
+// ----------
+
+person.doSomething()
+console.log()
+
+person.name
+console.memory
